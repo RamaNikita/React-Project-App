@@ -3,8 +3,11 @@ import { Link } from "react-router-dom";
 export default function Header() {
   return (
     <>
-      <Link to="/Hotels">Hotel</Link>
-      <Link to="/">Home</Link>
+      <div className="nav">
+        <Link to="/HomePage">Home</Link>
+        <Link to="/Hotels">Hotel</Link>
+      </div>
+
       {/* <div>this is Header tab</div> */}
     </>
   );
