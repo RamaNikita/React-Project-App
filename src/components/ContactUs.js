@@ -4,7 +4,7 @@ export default function About() {
       <div>
         <h3>Contact information</h3>
         <h4>Email:-xyz@examplemail.com</h4>
-        <h4>Phone:-555-555-1234</h4>
+        <h4>Phone:-555-555-5555</h4>
       </div>
       <h3>Follow us on </h3>
       <div className="icon">
