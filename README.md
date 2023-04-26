@@ -4,16 +4,9 @@ This is a React app that allows users to search for hotels using the RapidAPI ho
 
 ## Technologies Used
 
--
-
--
-
 - HTML
-
 - CSS
-
 - JavaScript
-
 - React
 
 ## Improvements
